@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/example_version.dir/example_version.c.o  -o example_version  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -lzmq 

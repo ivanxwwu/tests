@@ -1,0 +1,12 @@
+/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/CMakeFiles/test_rapidjson.dir
+/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/CMakeFiles/example_swap.dir
+/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/CMakeFiles/example_pointer.dir
+/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/CMakeFiles/edit_cache.dir
+/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/CMakeFiles/example_first.dir
+/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/CMakeFiles/example_pointer2.dir
+/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/CMakeFiles/example_array.dir
+/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/CMakeFiles/example_dom.dir
+/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/CMakeFiles/example_object.dir
+/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/CMakeFiles/example_consul.dir
+/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/CMakeFiles/main.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/test_rapidjson.dir/main.cpp.o  -o test_rapidjson 

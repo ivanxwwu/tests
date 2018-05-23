@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/example_pointer2.dir/example_pointer2.cpp.o  -o example_pointer2 -lssl -lcrypto 

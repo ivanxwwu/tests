@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/cppworkspace/ClionProjects/test_rapidjson/example_pointer.cpp
+rapidjson/pointer.h
+/root/cppworkspace/ClionProjects/test_rapidjson/rapidjson/pointer.h
+rapidjson/document.h
+/root/cppworkspace/ClionProjects/test_rapidjson/rapidjson/document.h
+iostream
+-
+rapidjson/stringbuffer.h
+-
+rapidjson/writer.h
+/root/cppworkspace/ClionProjects/test_rapidjson/rapidjson/writer.h
+

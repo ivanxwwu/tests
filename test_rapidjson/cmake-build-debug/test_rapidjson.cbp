@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="test_rapidjson"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_rapidjson">
+				<Option output="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/test_rapidjson" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/cppworkspace/ClionProjects/test_rapidjson/dep/rapidjson/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_rapidjson"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="test_rapidjson/fast">
+				<Option output="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/test_rapidjson" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/cppworkspace/ClionProjects/test_rapidjson/dep/rapidjson/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 test_rapidjson/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_swap">
+				<Option output="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/example_swap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/cppworkspace/ClionProjects/test_rapidjson/dep/rapidjson/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_swap"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_swap/fast">
+				<Option output="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/example_swap" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/cppworkspace/ClionProjects/test_rapidjson/dep/rapidjson/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_swap/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_pointer">
+				<Option output="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/example_pointer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/cppworkspace/ClionProjects/test_rapidjson/dep/rapidjson/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_pointer"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_pointer/fast">
+				<Option output="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/example_pointer" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/cppworkspace/ClionProjects/test_rapidjson/dep/rapidjson/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_pointer/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_first">
+				<Option output="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/example_first" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/cppworkspace/ClionProjects/test_rapidjson/dep/rapidjson/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_first"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_first/fast">
+				<Option output="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/example_first" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/cppworkspace/ClionProjects/test_rapidjson/dep/rapidjson/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_first/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_pointer2">
+				<Option output="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/example_pointer2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/cppworkspace/ClionProjects/test_rapidjson/dep/rapidjson/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_pointer2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_pointer2/fast">
+				<Option output="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/example_pointer2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/cppworkspace/ClionProjects/test_rapidjson/dep/rapidjson/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_pointer2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_array">
+				<Option output="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/example_array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/cppworkspace/ClionProjects/test_rapidjson/dep/rapidjson/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_array"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_array/fast">
+				<Option output="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/example_array" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/cppworkspace/ClionProjects/test_rapidjson/dep/rapidjson/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_array/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_dom">
+				<Option output="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/example_dom" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/cppworkspace/ClionProjects/test_rapidjson/dep/rapidjson/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_dom"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_dom/fast">
+				<Option output="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/example_dom" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/cppworkspace/ClionProjects/test_rapidjson/dep/rapidjson/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_dom/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_object">
+				<Option output="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/example_object" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/cppworkspace/ClionProjects/test_rapidjson/dep/rapidjson/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_object"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_object/fast">
+				<Option output="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/example_object" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/cppworkspace/ClionProjects/test_rapidjson/dep/rapidjson/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_object/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_consul">
+				<Option output="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/example_consul" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/cppworkspace/ClionProjects/test_rapidjson/dep/rapidjson/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_consul"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_consul/fast">
+				<Option output="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/example_consul" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/cppworkspace/ClionProjects/test_rapidjson/dep/rapidjson/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_consul/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main">
+				<Option output="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/cppworkspace/ClionProjects/test_rapidjson/dep/rapidjson/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 main"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="main/fast">
+				<Option output="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/main" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/root/cppworkspace/ClionProjects/test_rapidjson/dep/rapidjson/include"/>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 main/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_rapidjson/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/root/cppworkspace/ClionProjects/test_rapidjson/example_array.cpp">
+			<Option target="example_array"/>
+		</Unit>
+		<Unit filename="/root/cppworkspace/ClionProjects/test_rapidjson/example_consul.cpp">
+			<Option target="example_consul"/>
+		</Unit>
+		<Unit filename="/root/cppworkspace/ClionProjects/test_rapidjson/example_dom.cpp">
+			<Option target="example_dom"/>
+		</Unit>
+		<Unit filename="/root/cppworkspace/ClionProjects/test_rapidjson/example_first.cpp">
+			<Option target="example_first"/>
+		</Unit>
+		<Unit filename="/root/cppworkspace/ClionProjects/test_rapidjson/example_object.cpp">
+			<Option target="example_object"/>
+		</Unit>
+		<Unit filename="/root/cppworkspace/ClionProjects/test_rapidjson/example_pointer.cpp">
+			<Option target="example_pointer"/>
+		</Unit>
+		<Unit filename="/root/cppworkspace/ClionProjects/test_rapidjson/example_pointer2.cpp">
+			<Option target="example_pointer2"/>
+		</Unit>
+		<Unit filename="/root/cppworkspace/ClionProjects/test_rapidjson/example_swap.cpp">
+			<Option target="example_swap"/>
+		</Unit>
+		<Unit filename="/root/cppworkspace/ClionProjects/test_rapidjson/main.cpp">
+			<Option target="test_rapidjson"/>
+			<Option target="main"/>
+		</Unit>
+		<Unit filename="/root/cppworkspace/ClionProjects/test_rapidjson/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

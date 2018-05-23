@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="test_zmq"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_wuclient">
+				<Option output="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/example_wuclient" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_wuclient"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_wuclient/fast">
+				<Option output="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/example_wuclient" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_wuclient/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_version">
+				<Option output="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/example_version" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_version"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_version/fast">
+				<Option output="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/example_version" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_version/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_hwclient">
+				<Option output="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/example_hwclient" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_hwclient"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_hwclient/fast">
+				<Option output="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/example_hwclient" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_hwclient/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_hwserver2">
+				<Option output="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/example_hwserver2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_hwserver2"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_hwserver2/fast">
+				<Option output="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/example_hwserver2" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_hwserver2/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_wuserver">
+				<Option output="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/example_wuserver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_wuserver"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_wuserver/fast">
+				<Option output="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/example_wuserver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_wuserver/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_hwserver">
+				<Option output="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/example_hwserver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_hwserver"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="example_hwserver/fast">
+				<Option output="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/example_hwserver" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/4.8"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/4.8"/>
+					<Add directory="/usr/include/c++/4.8/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/4.8/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 example_hwserver/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/root/cppworkspace/ClionProjects/test_zmq/example_hwclient.c">
+			<Option target="example_hwclient"/>
+		</Unit>
+		<Unit filename="/root/cppworkspace/ClionProjects/test_zmq/example_hwserver.c">
+			<Option target="example_hwserver"/>
+		</Unit>
+		<Unit filename="/root/cppworkspace/ClionProjects/test_zmq/example_hwserver2.cpp">
+			<Option target="example_hwserver2"/>
+		</Unit>
+		<Unit filename="/root/cppworkspace/ClionProjects/test_zmq/example_version.c">
+			<Option target="example_version"/>
+		</Unit>
+		<Unit filename="/root/cppworkspace/ClionProjects/test_zmq/example_wuclient.c">
+			<Option target="example_wuclient"/>
+		</Unit>
+		<Unit filename="/root/cppworkspace/ClionProjects/test_zmq/example_wuserver.c">
+			<Option target="example_wuserver"/>
+		</Unit>
+		<Unit filename="/root/cppworkspace/ClionProjects/test_zmq/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

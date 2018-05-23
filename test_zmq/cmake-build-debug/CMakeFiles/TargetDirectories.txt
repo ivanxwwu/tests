@@ -1,0 +1,8 @@
+/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/CMakeFiles/edit_cache.dir
+/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/CMakeFiles/example_wuclient.dir
+/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/CMakeFiles/example_version.dir
+/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/CMakeFiles/example_hwclient.dir
+/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/CMakeFiles/example_hwserver2.dir
+/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/CMakeFiles/example_wuserver.dir
+/root/cppworkspace/ClionProjects/test_zmq/cmake-build-debug/CMakeFiles/example_hwserver.dir

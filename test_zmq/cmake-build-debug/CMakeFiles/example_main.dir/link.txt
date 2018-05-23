@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/example_main.dir/example_main.cpp.o  -o example_main -Wl,-rpath,/usr/local/lib /usr/local/lib/libzmq.so 

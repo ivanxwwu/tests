@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/example_wuserver.dir/example_wuserver.c.o  -o example_wuserver  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -lzmq 

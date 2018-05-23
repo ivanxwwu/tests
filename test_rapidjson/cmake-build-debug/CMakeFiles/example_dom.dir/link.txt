@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/example_dom.dir/example_dom.cpp.o  -o example_dom -lssl -lcrypto 

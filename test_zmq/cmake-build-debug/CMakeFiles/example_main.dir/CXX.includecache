@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/cppworkspace/ClionProjects/test_zmq/example_main.cpp
+unistd.h
+-
+string.h
+-
+stdio.h
+-
+zmq.h
+/root/cppworkspace/ClionProjects/test_zmq/zmq.h
+

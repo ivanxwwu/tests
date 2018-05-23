@@ -1,0 +1,27 @@
+cmake_minimum_required(VERSION 3.7)
+project(test_rapidjson)
+
+set(CMAKE_CXX_STANDARD 11)
+
+set(SOURCE_FILES main.cpp)
+add_executable(test_rapidjson ${SOURCE_FILES})
+
+INCLUDE_DIRECTORIES(${CMAKE_SOURCE_DIR}/dep/rapidjson/include)
+#ADD_DEFINITIONS(-DNDEBUG)
+macro(add_example_target EXAMPLE_TARGET)
+    add_executable("example_${EXAMPLE_TARGET}" "example_${EXAMPLE_TARGET}.cpp")
+    target_link_libraries("example_${EXAMPLE_TARGET}" ssl)
+    target_link_libraries("example_${EXAMPLE_TARGET}" crypto)
+endmacro()
+
+add_example_target(first)
+add_example_target(dom)
+add_example_target(array)
+add_example_target(object)
+add_example_target(swap)
+add_example_target(pointer)
+add_example_target(pointer2)
+add_example_target(consul)
+add_executable(main main.cpp)
+target_link_libraries(main ssl)
+target_link_libraries(main crypto)

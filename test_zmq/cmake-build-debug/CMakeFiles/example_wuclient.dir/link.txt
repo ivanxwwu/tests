@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/example_wuclient.dir/example_wuclient.c.o  -o example_wuclient  -L/usr/local/lib -Wl,-rpath,/usr/local/lib -lzmq 
